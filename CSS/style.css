@@ -291,6 +291,7 @@ section {
     width: 45%;
     pointer-events: none;
     padding-top: 10px;
+    overflow: visible;
 }
 
 span {
